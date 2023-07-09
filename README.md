@@ -1,3 +1,6 @@
+
+<img width="947" alt="news pie ss 2" src="https://github.com/xymate/Newspie.github.io/assets/77551829/f5adcd54-2dc6-484f-8aab-fae28c6a2052">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
