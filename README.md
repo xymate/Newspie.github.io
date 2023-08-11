@@ -1,6 +1,12 @@
 # ScreenShots of the Project
+
+GENERAL HEADLINES PAGE
 <img width="958" alt="news pie ss" src="https://github.com/xymate/Newspie.github.io/assets/77551829/e8e53dfb-4a1f-4db0-a130-7b57a5317f49">
+
+TECHNOLOGY HEADLINES PAGE
 <img width="946" alt="news pie 3" src="https://github.com/xymate/Newspie.github.io/assets/77551829/7c6aec59-5b85-4a7e-9b39-a4d8e1dd2c55">
+
+
 <img width="950" alt="news pie 4" src="https://github.com/xymate/Newspie.github.io/assets/77551829/51a5f559-85f6-4507-a41e-c7827d0a93ca">
 <img width="947" alt="news pie ss 2" src="https://github.com/xymate/Newspie.github.io/assets/77551829/f5adcd54-2dc6-484f-8aab-fae28c6a2052">
 
